@@ -1,0 +1,12 @@
+export const PRIMARY = '#4173BD';
+export const SECONDARY = '#0066ee';
+export const PRIMARY_LIGHT = '#BBC8EA';
+export const LINK = '#6272C8';
+export const SPLASH = '#496897';
+export const HEAD = "#2081CF"
+export const WHITE = '#FFFFFF';
+export const BLACK = '#000000';
+export const LIGHT_BLUE = '#A2AFD0';
+export const TILE = '#EDDDDD';
+export const DISCARD = "#7783A0"
+export const GRAY = '#8a8a8a';

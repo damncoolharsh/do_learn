@@ -1,0 +1,25 @@
+{
+    "plugins": [
+        [
+            "module-resolver",
+            {
+                "cwd": "babelrc",
+                "root": ["./sources"],
+                "extensions": [".js", ".ios.js", ".android.js"],
+                "alias": {
+                    "assets": "./sources/assets",
+                    "sources": "./sources",
+                    "components": "./sources/components",
+                    "atoms": "./sources/components/atoms",
+                    "molecules": "./sources/components/molecules",
+                    "organisms": "./sources/components/organisms",
+                    "navigations": "./sources/navigations",
+                    "screens": "./sources/screens",
+                    "services": "./sources/services",
+                    "styles": "./sources/styles",
+                    "utils": "./sources/utils"
+                }
+            }
+        ]
+    ]
+}
