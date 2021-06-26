@@ -1,4 +1,5 @@
 import Center from './center'
+import CustButton from './CustButton'
 import HeadTitle from './headTitle'
 import NormalTitle from "./normalTitle";
 import Row from './row'
@@ -16,6 +17,7 @@ import Card from './card'
 
 export {
     Center,
+    CustButton,
     HeadTitle,
     NormalTitle,
     Row,
